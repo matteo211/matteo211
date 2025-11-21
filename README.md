@@ -30,13 +30,14 @@ Ho completato il corso intensivo **Cybersecurity Specialist** (Epicode Institute
 - Simulazioni CTF su TryHackMe & HackTheBox  
 
 ✔️ Certificazioni  
+- Cisco cyberops associate 200-201
+
 - Cisco Networking Basics
 - Cisco Endpoint Security
 - Cisco Network defense
 - Cisco Cyber Threat Management
 - TryHackMe SOC Analyst Tier 1
 
-🚧 In progress: CompTIA A+ 
 
 
 ---
